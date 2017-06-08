@@ -1,0 +1,22 @@
+extends ../layout/default
+
+block main
+        .row
+          .col-lg-12
+            if messages.erro
+              .alert.alert-danger
+                p=messages.erro
+              br
+            if messages.info
+              .alert.alert-success
+                p=messages.info
+              br
+
+        .row
+          .col-lg-12
+            .ibox.float-e-margins
+              .ibox-title
+                h5 Json tratado
+
+              .ibox-content
+                p=jsontratado

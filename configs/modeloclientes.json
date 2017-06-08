@@ -1,0 +1,12 @@
+[
+  {
+    "nome":"João Roberto",
+    "endereco": "rua tal",
+    "cpf": "02396760092"
+  },
+  {
+    "nome":"Maria",
+    "endereco": "rua outra",
+    "cpf": "00000000000"
+  }
+]

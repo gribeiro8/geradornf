@@ -1,0 +1,363 @@
+[
+  {
+    "conteudo":"cpf",
+    "n":"01",
+    "tam":"14",
+    "posi":"1",
+    "posf":"14",
+    "completar":"0",
+    "validar":"n",
+    "nulo":""
+  },
+  {
+    "conteudo": "ie",
+    "n": "02",
+    "tam": "14",
+    "posi": "15",
+    "posf": "28",
+    "validar":"n",
+    "completar": " ",
+    "nulo":"ISENTO"
+  },
+  {
+    "conteudo": "razaosocial",
+    "n": "03",
+    "tam": "35",
+    "posi": "29",
+    "posf": "63",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "uf",
+    "n": "04",
+    "tam": "2",
+    "posi": "64",
+    "posf": "65",
+    "validar":"n",
+    "completar": " ",
+    "nulo":"RS"
+  },
+  {
+    "conteudo": "classeconsumo",
+    "n": "05",
+    "tam": "1",
+    "posi": "66",
+    "posf": "66",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "fasetipoutilizacao",
+    "n": "06",
+    "tam": "1",
+    "posi": "67",
+    "posf": "67",
+    "validar":"n",
+    "completar": "0",
+    "nulo":"4"
+  },
+  {
+    "conteudo": "grupotensao",
+    "n": "07",
+    "tam": "2",
+    "posi": "68",
+    "posf": "69",
+    "validar":"n",
+    "completar": "0",
+    "nulo":"00"
+  },
+  {
+    "conteudo": "codidconsumidorassinante",
+    "n": "08",
+    "tam": "12",
+    "posi": "70",
+    "posf": "81",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "dataemissao",
+    "n": "09",
+    "tam": "8",
+    "posi": "82",
+    "posf": "89",
+    "validar":"n",
+    "processamento":"s",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "modelo",
+    "n": "10",
+    "tam": "2",
+    "posi": "90",
+    "posf": "91",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "serie",
+    "n": "11",
+    "tam": "3",
+    "posi": "92",
+    "posf": "94",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "numero",
+    "n": "12",
+    "tam": "9",
+    "posi": "95",
+    "posf": "103",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "codautentifdigitaldocfiscal",
+    "n": "13",
+    "tam": "32",
+    "posi": "104",
+    "posf": "135",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "valortotal",
+    "n": "14",
+    "tam": "12",
+    "posi": "136",
+    "posf": "147",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "bcicms",
+    "n": "15",
+    "tam": "12",
+    "posi": "148",
+    "posf": "159",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "icms",
+    "n": "16",
+    "tam": "12",
+    "posi": "160",
+    "posf": "171",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "operacaoisntnaotrib",
+    "n": "17",
+    "tam": "12",
+    "posi": "172",
+    "posf": "183",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "outrosvalores",
+    "n": "18",
+    "tam": "12",
+    "posi": "184",
+    "posf": "195",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "situacaodoc",
+    "n": "19",
+    "tam": "1",
+    "posi": "196",
+    "posf": "196",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "anomesreferenciaapuracao",
+    "n": "20",
+    "tam": "4",
+    "posi": "197",
+    "posf": "200",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "referenciaitemnfe",
+    "n": "21",
+    "tam": "9",
+    "posi": "201",
+    "posf": "209",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "nterminaltelunidadeconsumo",
+    "n": "22",
+    "tam": "12",
+    "posi": "210",
+    "posf": "221",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "indicacaotipoinfocampo",
+    "n": "23",
+    "tam": "1",
+    "posi": "222",
+    "posf": "222",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "tipocliente",
+    "n": "24",
+    "tam": "2",
+    "posi": "223",
+    "posf": "224",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "subclasseconsumo",
+    "n": "25",
+    "tam": "2",
+    "posi": "225",
+    "posf": "226",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "numeroterminaltelprincipal",
+    "n": "26",
+    "tam": "12",
+    "posi": "227",
+    "posf": "238",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "cnpjeminente",
+    "n": "27",
+    "tam": "14",
+    "posi": "239",
+    "posf": "252",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "numerocodigofaturacomercial",
+    "n": "28",
+    "tam": "20",
+    "posi": "253",
+    "posf": "272",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "valortotalfaturacomercial",
+    "n": "29",
+    "tam": "12",
+    "posi": "273",
+    "posf": "284",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "dataleituraanterior",
+    "n": "30",
+    "tam": "8",
+    "posi": "285",
+    "posf": "292",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "dataleituraanual",
+    "n": "31",
+    "tam": "8",
+    "posi": "293",
+    "posf": "300",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "branco1",
+    "n": "32",
+    "tam": "50",
+    "posi": "301",
+    "posf": "350",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "branco2",
+    "n": "33",
+    "tam": "8",
+    "posi": "351",
+    "posf": "358",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "infoadicionais",
+    "n": "34",
+    "tam": "30",
+    "posi": "359",
+    "posf": "388",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "branco3",
+    "n": "35",
+    "tam": "5",
+    "posi": "389",
+    "posf": "393",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "codautentifdigitalregistro",
+    "n": "36",
+    "tam": "32",
+    "posi": "394",
+    "posf": "425",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  }
+]

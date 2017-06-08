@@ -1,0 +1,36 @@
+doctype html
+html
+  head
+    title NFE
+    meta(charset='utf-8')
+    meta(name="viewport", content="width=device-width, initial-scale=1")
+    link(rel='stylesheet', href='/inspinia/css/bootstrap.min.css')
+    link(rel='stylesheet', href='/inspinia/font-awesome/css/font-awesome.css')
+    link(rel='stylesheet', href='/inspinia/css/animate.css')
+    link(rel='stylesheet', href='/inspinia/css/style.css')
+    link(rel='stylesheet', href='/inspinia/css/plugins/dataTables/datatables.min.css')
+    link(rel='stylesheet', href='/inspinia/css/plugins/dataTables/fixedColumns.dataTables.min.css')
+
+  body(class='top-navigation')
+    div(id="wrapper")
+        div(id="page-wrapper" class="gray-bg")
+            include menu
+            div(class="wrapper wrapper-content")
+                div(class="container")
+                    block main
+
+
+    script(src='/inspinia/js/jquery-2.1.1.js')
+    script(src='/inspinia/js/bootstrap.min.js')
+    script(src='/inspinia/js/plugins/metisMenu/jquery.metisMenu.js')
+    script(src='/inspinia/js/plugins/slimscroll/jquery.slimscroll.min.js')
+    script(src='/inspinia/js/plugins/jeditable/jquery.jeditable.js')
+    script(src='/inspinia/js/inspinia.js')
+    script(src='/inspinia/js/plugins/pace/pace.min.js')
+    script(src='/inspinia/js/plugins/dataTables/datatables.min.js')
+    script(src='/inspinia/js/plugins/dataTables/dataTables.fixedColumns.min.js')
+
+    block script
+
+
+

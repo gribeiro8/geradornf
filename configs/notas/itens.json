@@ -1,0 +1,382 @@
+[
+  {
+    "conteudo":"cpf",
+    "n":"01",
+    "tam":"14",
+    "posi":"1",
+    "posf":"14",
+    "validar":"n",
+    "completar":"0",
+    "nulo":""
+  },
+  {
+    "conteudo": "uf",
+    "n": "02",
+    "tam": "2",
+    "posi": "15",
+    "posf": "16",
+    "validar":"n",
+    "completar": " ",
+    "nulo":"RS"
+  },
+  {
+    "conteudo": "classeconsumo",
+    "n": "03",
+    "tam": "1",
+    "posi": "17",
+    "posf": "17",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "fasetipoutilizacao",
+    "n": "04",
+    "tam": "1",
+    "posi": "18",
+    "posf": "18",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "grupotensao",
+    "n": "05",
+    "tam": "2",
+    "posi": "19",
+    "posf": "20",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "dataemissao",
+    "n": "06",
+    "tam": "8",
+    "posi": "21",
+    "posf": "28",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "modelo",
+    "n": "07",
+    "tam": "2",
+    "posi": "29",
+    "posf": "30",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "serie",
+    "n": "08",
+    "tam": "3",
+    "posi": "31",
+    "posf": "33",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "numero",
+    "n": "09",
+    "tam": "9",
+    "posi": "34",
+    "posf": "42",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "cfop",
+    "n": "10",
+    "tam": "4",
+    "posi": "43",
+    "posf": "46",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "nordemitem",
+    "n": "11",
+    "tam": "3",
+    "posi": "47",
+    "posf": "49",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "coditem",
+    "n": "12",
+    "tam": "10",
+    "posi": "50",
+    "posf": "59",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "descitem",
+    "n": "13",
+    "tam": "40",
+    "posi": "60",
+    "posf": "99",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "codclassifitem",
+    "n": "14",
+    "tam": "4",
+    "posi": "100",
+    "posf": "103",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "unidade",
+    "n": "15",
+    "tam": "6",
+    "posi": "104",
+    "posf": "109",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "qntdcontratada",
+    "n": "16",
+    "tam": "12",
+    "posi": "110",
+    "posf": "121",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "qntdmedida",
+    "n": "17",
+    "tam": "12",
+    "posi": "122",
+    "posf": "133",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "total",
+    "n": "18",
+    "tam": "11",
+    "posi": "134",
+    "posf": "144",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "descontoredutores",
+    "n": "19",
+    "tam": "11",
+    "posi": "145",
+    "posf": "155",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "acrescdespesaacess",
+    "n": "20",
+    "tam": "11",
+    "posi": "156",
+    "posf": "166",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "bcicms",
+    "n": "21",
+    "tam": "11",
+    "posi": "167",
+    "posf": "177",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "icms",
+    "n": "22",
+    "tam": "11",
+    "posi": "178",
+    "posf": "188",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "operacaoisntnaotrib",
+    "n": "23",
+    "tam": "11",
+    "posi": "189",
+    "posf": "199",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "outrosvalores",
+    "n": "24",
+    "tam": "11",
+    "posi": "200",
+    "posf": "210",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "aliquotaicms",
+    "n": "25",
+    "tam": "4",
+    "posi": "211",
+    "posf": "214",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "situacao",
+    "n": "26",
+    "tam": "1",
+    "posi": "215",
+    "posf": "215",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "anomesreferenciaapuracao",
+    "n": "27",
+    "tam": "4",
+    "posi": "216",
+    "posf": "219",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "numerocontrato",
+    "n": "28",
+    "tam": "15",
+    "posi": "220",
+    "posf": "234",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "qntdfatura",
+    "n": "29",
+    "tam": "12",
+    "posi": "235",
+    "posf": "246",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "tarifaaplicprecomedioefetivo",
+    "n": "30",
+    "tam": "11",
+    "posi": "247",
+    "posf": "257",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "aliquotapispasep",
+    "n": "31",
+    "tam": "6",
+    "posi": "258",
+    "posf": "263",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "pispasep",
+    "n": "32",
+    "tam": "11",
+    "posi": "264",
+    "posf": "274",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "aliquotacofins",
+    "n": "33",
+    "tam": "6",
+    "posi": "275",
+    "posf": "280",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "cofins",
+    "n": "34",
+    "tam": "11",
+    "posi": "281",
+    "posf": "291",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "indicadordescjudicial",
+    "n": "35",
+    "tam": "1",
+    "posi": "292",
+    "posf": "292",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "tipoisencaoreducaobasecalculo",
+    "n": "36",
+    "tam": "2",
+    "posi": "293",
+    "posf": "294",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "branco1",
+    "n": "37",
+    "tam": "5",
+    "posi": "295",
+    "posf": "299",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "codautentifdigitalregistro",
+    "n": "38",
+    "tam": "32",
+    "posi": "300",
+    "posf": "331",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  }
+]

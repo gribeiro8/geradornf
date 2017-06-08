@@ -1,0 +1,24 @@
+extends ../layout/default
+
+block main
+        .row
+          .col-lg-12
+            if messages.erro
+              .alert.alert-danger
+                p=messages.erro
+              br
+            if messages.info
+              .alert.alert-success
+                p=messages.info
+              br
+
+        .row
+          .col-lg-12
+            .ibox.float-e-margins
+              .ibox-title
+                h5 Insira o Json
+
+              .ibox-content
+                form(method='POST', action='/tratarjson', role='form', class='form-horizontal')
+                  textarea(class="form-control" placeholder="Json gerado pelo sistema", name='descricaocurta', cols=100, rows=50)
+                  button(class='btn btn-primary', type='submit') Salvar

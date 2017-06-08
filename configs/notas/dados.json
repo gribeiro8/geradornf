@@ -1,0 +1,212 @@
+[
+  {
+    "conteudo":"cpf",
+    "n":"01",
+    "tam":"14",
+    "posi":"1",
+    "posf":"14",
+    "completar":"0",
+    "validar":"n",
+    "nulo":""
+  },
+  {
+    "conteudo": "ie",
+    "n": "02",
+    "tam": "14",
+    "posi": "15",
+    "posf": "28",
+    "validar":"n",
+    "completar": " ",
+    "nulo":"ISENTO"
+  },
+  {
+    "conteudo": "razaosocial",
+    "n": "03",
+    "tam": "35",
+    "posi": "29",
+    "posf": "63",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "logradouro",
+    "n": "04",
+    "tam": "45",
+    "posi": "64",
+    "posf": "108",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "numero",
+    "n": "05",
+    "tam": "5",
+    "posi": "109",
+    "posf": "113",
+    "validar":"n",
+    "completar": "0",
+    "nulo":"00001"
+  },
+  {
+    "conteudo": "complemento",
+    "n": "06",
+    "tam": "15",
+    "posi": "114",
+    "posf": "128",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "cep",
+    "n": "07",
+    "tam": "8",
+    "posi": "129",
+    "posf": "136",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "bairro",
+    "n": "08",
+    "tam": "15",
+    "posi": "137",
+    "posf": "151",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "municipio",
+    "n": "09",
+    "tam": "30",
+    "posi": "152",
+    "posf": "181",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "uf",
+    "n": "10",
+    "tam": "2",
+    "posi": "182",
+    "posf": "183",
+    "validar":"n",
+    "completar": " ",
+    "nulo":"RS"
+  },
+  {
+    "conteudo": "telefone",
+    "n": "11",
+    "tam": "12",
+    "posi": "184",
+    "posf": "195",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "identificacao",
+    "n": "12",
+    "tam": "12",
+    "posi": "196",
+    "posf": "207",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "unidade",
+    "n": "13",
+    "tam": "12",
+    "posi": "208",
+    "posf": "219",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "ufhabilitacao",
+    "n": "14",
+    "tam": "2",
+    "posi": "220",
+    "posf": "221",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "dataemissao",
+    "n": "15",
+    "tam": "8",
+    "posi": "222",
+    "posf": "229",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "modelo",
+    "n": "16",
+    "tam": "2",
+    "posi": "232",
+    "posf": "231",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "serie",
+    "n": "17",
+    "tam": "3",
+    "posi": "232",
+    "posf": "234",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  },
+  {
+    "conteudo": "numeronota",
+    "n": "18",
+    "tam": "9",
+    "posi": "235",
+    "posf": "243",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "codmunicipio",
+    "n": "19",
+    "tam": "7",
+    "posi": "244",
+    "posf": "250",
+    "validar":"n",
+    "completar": "0",
+    "nulo":""
+  },
+  {
+    "conteudo": "brancos",
+    "n": "20",
+    "tam": "5",
+    "posi": "251",
+    "posf": "255",
+    "validar":"n",
+    "completar": " ",
+    "nulo":" "
+  },
+  {
+    "conteudo": "codigoautenticacao",
+    "n": "21",
+    "tam": "32",
+    "posi": "256",
+    "posf": "287",
+    "validar":"n",
+    "completar": " ",
+    "nulo":""
+  }
+]
